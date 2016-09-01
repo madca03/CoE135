@@ -1,0 +1,1 @@
+cmd_/home/mark/Desktop/uptime/uptime.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/mark/Desktop/uptime/uptime.ko /home/mark/Desktop/uptime/uptime.o /home/mark/Desktop/uptime/uptime.mod.o

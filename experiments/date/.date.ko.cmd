@@ -1,0 +1,1 @@
+cmd_/home/mark/Desktop/experiments/date/date.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/mark/Desktop/experiments/date/date.ko /home/mark/Desktop/experiments/date/date.o /home/mark/Desktop/experiments/date/date.mod.o
