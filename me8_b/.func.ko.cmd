@@ -1,0 +1,1 @@
+cmd_/home/mark/Desktop/me8_b/func.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/mark/Desktop/me8_b/func.ko /home/mark/Desktop/me8_b/func.o /home/mark/Desktop/me8_b/func.mod.o
